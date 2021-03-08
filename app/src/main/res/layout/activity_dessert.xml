@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".Dessert"
+    android:background="@drawable/mytheme">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/lunch"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Desserts...."
+            android:fontFamily="cursive"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/pink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose Your Favourite"
+            android:fontFamily="casual"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="70dp"
+            android:textColor="@color/darkpink"
+            />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:rowCount="8"
+            android:columnCount="1"
+            android:layout_margin="5dp"
+            android:alignmentMode="alignMargins"
+            android:layout_gravity="center_horizontal"
+            android:columnOrderPreserved="false">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_bisci">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/biscinew"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Bicuit Pudding"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_mousse">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/moussenew"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Chocolate Mousse"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_caramell">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/caremalnew"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Caremal Pudding"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_donutt">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/donutnew"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Donut"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_waffles">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/wafflenewww"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Waffles"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_watalappam">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/watalappannew"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Watalappan"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+        </GridLayout>
+
+
+    </LinearLayout>
+
+
+
+</ScrollView>

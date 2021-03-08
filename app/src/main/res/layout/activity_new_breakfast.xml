@@ -1,0 +1,292 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".NewBreakfast"
+    android:background="@drawable/mytheme">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+
+        <TextView
+            android:id="@+id/morning"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Good Morning...."
+            android:fontFamily="cursive"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/pink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Have a Nice Day..."
+            android:textColor="@color/midlepink"
+            android:fontFamily="casual"
+            android:textSize="25dp"
+            android:layout_marginLeft="150dp"
+            android:textStyle="bold"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Choose Your Favourite"
+            android:fontFamily="casual"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="70dp"
+            android:textColor="@color/darkpink"
+            />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:rowCount="8"
+            android:columnCount="1"
+            android:layout_margin="5dp"
+            android:alignmentMode="alignMargins"
+            android:layout_gravity="center_horizontal"
+            android:columnOrderPreserved="false">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_pittu">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/pittu"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pittu"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_stringhoppers">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/stringhoppers"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="String Hoppers"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_hoppers">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/hoppers"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Hoppers"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_pancake">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/pancake"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="American Pancake"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_milkricee">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/milkrice"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Milk Rice"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="150dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_dosa">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="130dp"
+                        android:layout_height="130dp"
+                        android:src="@drawable/dosa"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Dosa"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+        </GridLayout>
+
+
+    </LinearLayout>
+
+</ScrollView>

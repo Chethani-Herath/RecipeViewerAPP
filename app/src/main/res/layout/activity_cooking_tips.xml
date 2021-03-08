@@ -1,0 +1,472 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".CookingTips"
+    android:background="@drawable/mytheme">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/tips"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Cooking Tips"
+            android:fontFamily="cursive"
+            android:textSize="40dp"
+            android:textStyle="bold"
+            android:layout_marginTop="15dp"
+            android:layout_marginLeft="30dp"
+            android:textColor="@color/pink"/>
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="That'll Change Every Home Cook's Life"
+            android:fontFamily="casual"
+            android:textSize="20dp"
+            android:textStyle="bold"
+            android:layout_marginLeft="20dp"
+            android:textColor="@color/darkpink"
+            />
+
+        <GridLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:rowCount="11"
+            android:columnCount="1"
+            android:layout_margin="5dp"
+            android:alignmentMode="alignMargins"
+            android:layout_gravity="center_horizontal"
+            android:columnOrderPreserved="false">
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip1">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/recipe"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Read the recipe all the way through before you start"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip2">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/bacon"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Save bacon fat"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="60dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip3">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/cutting"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Put a damp paper towel under your cutting board"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="10dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip4">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/bake"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Set your timer for a few minutes less than the called-for time"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip5">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/trust"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Trust yourself!"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="60dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip6">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/salt"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Add a little salt to everything. Yes, everything"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="15dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip7">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/scale"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="If you bake, buy a scale"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="35dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip8">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/clean"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Clean as you go"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="60dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip9">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/garlic"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Mince garlic by hand"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="50dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip10">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal">
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/pprtowel"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Put a paper towel on your cutting board"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="20dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                android:layout_width="match_parent"
+                android:layout_height="180dp"
+                app:cardCornerRadius="12dp"
+                app:cardElevation="5dp"
+                android:layout_margin="10dp"
+                app:cardBackgroundColor="@color/oo"
+                android:id="@+id/card_tip11">
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_gravity="center_horizontal"
+                    >
+
+                    <ImageView
+                        android:layout_width="175dp"
+                        android:layout_height="170dp"
+                        android:src="@drawable/cookie"
+                        android:layout_margin="12dp"/>
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="Pull cookies out before they're done"
+                        android:textSize="30dp"
+                        android:fontFamily="cursive"
+                        android:textStyle="bold"
+                        android:layout_marginTop="20dp"
+                        android:textColor="@color/black"/>
+
+
+                </LinearLayout>
+
+
+            </androidx.cardview.widget.CardView>
+
+
+
+        </GridLayout>
+
+
+    </LinearLayout>
+
+
+</ScrollView>

@@ -1,0 +1,839 @@
+<resources>
+    <string name="app_name">RecipeApp</string>
+
+    <string name="pittu_ingredients">
+        <br><b>2 cups rice flour (red or white)</b>\n</br>
+        <br><b>2 cups flour</b>\n</br>
+        <br><b>2 cups shredded coconut</b>\n</br>
+        <br><b>Salt to taste </b>\n</br>
+    </string>
+
+    <string name="method_pittu">
+        <br><b>1.Steam the wheat flour</b>\n</br>
+        <br><b>2.Just put the flour in a microwave safe bowl and heat for a minute.</b>\n</br>
+        <br><b>3.Check to see if the flour has clumped together,if not put in for another minute,continue till it has clumped.</b>\n</br>
+        <br><b>4.Next mix all ingredients in a large bowl and roll with the thumb to make small granules.</b>\n</br>
+        <br><b>5.Add water little by little.</b>\n</br>
+        <br><b>6.Take care not to make it too wet.</b>\n</br>
+        <br><b>7.If so add a little bit of rice flour.</b>\n</br>
+        <br><b>8.Fill the pipe of the Pittu maker and steam till the steam comes out of the lid for 3-5 minutes.</b>\n</br>
+        <br><b>9.Un-mold and serve hot with Lunu miris and salted and heated coconut milk.</b>\n</br>
+    </string>
+
+    <string name="string_ingrediants">
+        <br><b>String Hopper mold</b>\n</br>
+        <br><b>String Hopper wattie</b>\n</br>
+        <br><b>Roasted red or white Rice flour</b>\n</br>
+    </string>
+
+    <string name="method_string">
+        <br><b>1.In a dry bowl take two cups roasted rice flour.</b>\n</br>
+        <br><b>2.Add 1 tsp table salt, mix well.</b>\n</br>
+        <br><b>3.Let 4 cups of water boil vigorously.</b>\n</br>
+        <br><b>4.Gradually add the boiling water to rice flour until you can form a dough that does not stick to the bowl.</b>\n</br>
+        <br><b>5.Fill the mold with dough and squeeze the fine strings of flour on to the watties to form lacy circles.</b>\n</br>
+        <br><b>6.Stack the watties on top of each other and steam until done.</b>\n</br>
+        <br><b>7.With one cup of rice flour you can make 6-7 small string hoppers.</b>\n</br>
+        <br><b>8.It is advisable to make the dough in small quantities (2-3 cups of rice flour) at a time.</b>\n</br>
+        <br><b>9.String hoppers are delicious with Kirri Hodi, Lunu Miris or Seeni Sambol, Malu Ambulthial or Meat curry.</b>\n</br>
+    </string>
+
+    <string name="hopper_ing">
+        <br><b>2 tsp yeast granules</b>\n</br>
+        <br><b>1 tbsp sugar</b>\n</br>
+        <br><b>1/8 cup lukewarm water</b>\n</br>
+        <br><b>4 cups rice flour</b>\n</br>
+        <br><b>can of coconut milk</b>\n</br>
+        <br><b>1 tbsp oil</b>\n</br>
+        <br><b>salt to taste</b>\n</br>
+    </string>
+    <string name="method_hopper">
+
+ <br><b>Mix the ingredients for the yeast mixture and leave for 15 minutes until frothy.</b>\n</br>
+ <br><b>If the mixture is not frothy at this  point, the yeast you used is too old, you will need a new packet of yeast.</b>\n</br>
+ <br><b>Put the rice flour into a large bowl and add the yeast mixture.</b>\n</br>
+ <br><b>Next add the 1 cup lukewarm water + 1 cup  lukewarm beer. Mix well.</b>\n</br>
+ <br><b>Now cover the bowl with a wet cloth or plastic wrap and leave for about eight hours in a warm place.</b>\n</br>
+ <br><b>The batter should rise to double the original amount.</b>\n</br>
+ <br><b>Finally before preparation add 3/4 of the (coconut milk with water) and 2 tbsp sugar and stir well.</b>\n</br>
+ <br><b>If more  liquid is needed, add the remaining of the coconut milk little by little.</b>\n</br>
+ <br><b>The batter should be thinner than a  pancake batter. Add salt to taste.</b>\n</br>
+ <br><b>Soak a small piece of cloth in oil in a saucer.</b>\n</br>
+ <br><b>Heat a thachhiya (a small wok) on medium.</b>\n</br>
+ <br><b>When hot  rub the pan thoroughly with the oiled-cloth.</b>\n</br>
+ <br><b>Add about 1/4 cup of the batter to the pan and turn the  pan in a circular motion so that the batter sticks to the sides of the pan.</b>\n</br>
+ <br><b>Cover and cook for about a minute under low-medium heat.</b>\n</br>
+ <br><b>Use a butter knife to loosen the edges of  the hopper and serve hot.</b>\n</br>
+
+    </string>
+
+    <string name="pancake_ing">
+        <br><b>200g self-raising flour1</b>\n</br>
+        <br><b>½ tsp baking powder</b>\n</br>
+        <br><b>1 tbsp golden caster sugar</b>\n</br>
+        <br><b>3 large eggs</b>\n</br>
+        <br><b>25g melted butter</b>\n</br>
+        <br><b>200ml milk</b>\n</br>
+        <br><b>vegetable oil</b>\n</br>
+    </string>
+    <string name="pancake_method">
+<br><b>Mix the flour, baking powder, caster sugar and a pinch of salt together in a large bowl.</b>\n</br>
+<br><b>Create a well in the centre with the back of your spoon then add the eggs, melted butter and milk.</b>\n</br>
+<br><b>Whisk together either with a balloon whisk or electric hand beaters until smooth then pour into a jug.</b>\n</br>
+<br><b>Heat a small knob of butter and 1 tsp of oil in a large, non-stick frying pan over a medium heat.</b>\n</br>
+<br><b>When the butter looks frothy pour in rounds of the batter, approximately 8cm wide.</b>\n</br>
+<br><b>Make sure you don’t put the pancakes too close together as they will spread during cooking.</b>\n</br>
+<br><b>Cook the pancakes on their first side for about 1-2 mins or until lots of tiny bubbles start to appear and pop on the surface.</b>\n</br>
+<br><b>Flip the pancakes over and cook for a further minute on the other side. Repeat until all the batter is used up.</b>\n</br>
+<br><b>Serve your pancakes stacked up on a plate with a drizzle of maple syrup and any of your favourite toppings.</b>\n</br>
+
+    </string>
+
+    <string name="milkrice_ing">
+        <br><b>2 cups short-grain rice</b>\n</br>
+        <br><b>6 cups water</b>\n</br>
+        <br><b>4 1⁄4 cups milk</b>\n</br>
+        <br><b>1 pinch salt</b>\n</br>
+        <br><b>1⁄2 vanilla bean</b>\n</br>
+        <br><b>6 tablespoons sugar (to taste)</b>\n</br>
+    </string>
+    <string name="milkrice_method">
+        <br><b>Bring water to a boil in a large saucepan.</b>\n</br>
+        <br><b>Wash the rice and drain it.</b>\n</br>
+        <br><b>Add the rice to the boiling water, and cook for 5 minutes.</b>\n</br>
+        <br><b>In a separate saucepan, bring the milk to a boil over medium heat.</b>\n</br>
+        <br><b>Remove the cooked rice and drain it.</b>\n</br>
+        <br><b>Slowly drop the rice into the boiling milk.</b>\n</br>
+        <br><b>Lower the heat and add salt, vanilla bean, and sugar.</b>\n</br>
+        <br><b>Cover and simmer 15 - 20 minutes, stirring occasionally, until the milk is absorbed.</b>\n</br>
+        <br><b>Add more milk, if necessary for a tender rice.</b>\n</br>
+        <br><b>Serve warm, cold or room temperature - your preference.</b>\n</br>
+    </string>
+
+    <string name="dosa_ing">
+        <br><b>3 cups rice</b>\n</br>
+        <br><b>1 cup urad daal</b>\n</br>
+        <br><b>3/4 teaspoon fenugreek seeds</b>\n</br>
+        <br><b>Salt (to taste)</b>\n</br>
+        <br><b>Vegetable / canola / sunflower cooking oil</b>\n</br>
+    </string>
+    <string name="dosa_method">
+        <br><b>Wash the rice and urad daal well.</b>\n</br>
+        <br><b>Add the fenugreek seeds to the mix and fill enough water in the rice-daal bowl to cover them about 2-inch deep.</b>\n</br>
+        <br><b>Soak overnight.</b>\n</br>
+        <br><b>The next morning, drain all the water from the rice and urad daal.</b>\n</br>
+        <br><b>Now put some in a food processor and grind—adding very little water if necessary—to a smooth yet slightly grainy paste.</b>\n</br>
+        <br><b>When all the rice-daal mix is ground like this, put it into a large mixing bowl and add enough water to make a batter.</b>\n</br>
+        <br><b>The consistency of the batter should be such that it thickly coats a spoon dipped in it.</b>\n</br>
+        <br><b>Now add salt to taste and keep the dosa batter aside in a warm, dark spot, covered, for 6 to 8 hours.</b>\n</br>
+        <br><b>After this fermentation, stir the batter well. It is now ready to make dosas.</b>\n</br>
+        <br><b>Put some cooking oil in a small bowl and keep ready.</b>\n</br>
+        <br><b>Fold one sheet of paper towel into a wad and dip lightly into the bowl of cooking oil.</b>\n</br>
+        <br><b>Squeeze out any excess and then rub the paper towel all over the surface of the pan to grease.</b>\n</br>
+        <br><b>The correct amount of oil is such that it is barely visible in the pan.</b>\n</br>
+        <br><b>Now turn on the heat/ flame at medium high.</b>\n</br>
+        <br><b>Fill the ladle up to the 3/4 level with dosa batter.</b>\n</br>
+        <br><b>Gently pour this batter onto the center of the pan—just as you would for a pancake—till the ladle is empty.</b>\n</br>
+        <br><b>Now begin to spread the batter in sweeping circular motions to form a pancake of roughly 8-inch diameter.</b>\n</br>
+        <br><b>Now hold the pan by its handle, lift up and swirl it so as to make the drizzled oil spread all over the dosa.​</b>\n</br>
+        <br><b>When the upper surface begins to look cooked (it will no longer look soft or runny), flip the dosa. By this time, ideally, the surface that was underneath should be light golden in color.</b>\n</br>
+        <br><b>Cook for 1 minute after flipping.</b>\n</br>
+        <br><b>The dosa is almost done.</b>\n</br>
+    </string>
+
+    <string name="friedrice_ing">
+        <br><b>3 tbsp. sesame oil</b>\n</br>
+        <br><b>3 large eggs</b>\n</br>
+        <br><b>Kosher salt</b>\n</br>
+        <br><b>2 carrots, diced</b>\n</br>
+        <br><b>3 green onions, thinly sliced, white and green parts divided</b>\n</br>
+        <br><b>3 cloves garlic, minced</b>\n</br>
+        <br><b>1 tbsp. peeled and minced ginger (from a 1" piece)</b>\n</br>
+        <br><b>4 c. cooked long grain rice (preferably leftover)</b>\n</br>
+        <br><b>3/4 c. frozen peas</b>\n</br>
+        <br><b>3 tbsp. low-sodium soy sauce</b>\n</br>
+    </string>
+
+    <string name="friedrice_method">
+        <br><b>Heat a large cast iron skillet over high heat until very hot, about 2 minutes.</b>\n</br>
+        <br><b>Add 1 tablespoon oil.</b>\n</br>
+        <br><b>Beat egg with 2 teaspoons water and a large pinch salt and add to skillet.</b>\n</br>
+        <br><b>Cook, stirring to form large soft curds, about 30 seconds.</b>\n</br>
+        <br><b>Transfer to a plate.</b>\n</br>
+        <br><b>Return skillet to high heat and add 2 tablespoons oil, the carrots, and whites of the green onions.</b>\n</br>
+        <br><b>Cook until lightly golden, about 2 minutes.</b>\n</br>
+        <br><b>Add garlic and ginger and cook, stirring, until fragrant, 1 minute.</b>\n</br>
+        <br><b>Add rice, peas, and cooked eggs to skillet.</b>\n</br>
+        <br><b>Pour in soy sauce and cook, stirring until heated through, 1 minute.</b>\n</br>
+        <br><b>Season with salt and pepper and stir in the remaining green onions.</b>\n</br>
+    </string>
+
+    <string name="naasi_ing">
+        <br><b>2 small shallots (2 ounces; 55g), roughly chopped</b>\n</br>
+        <br><b>3medium cloves garlic</b>\n</br>
+        <br><b>1 large fresh green chili</b>\n</br>
+        <br><b>1/2 teaspoon terasi (Indonesian shrimp paste)</b>\n</br>
+        <br><b>4 cups cold cooked jasmine rice (21 ounces; 600g)</b>\n</br>
+        <br><b>2 tablespoons (30ml) neutral oil</b>\n</br>
+        <br><b>2 tablespoons (30ml) kecap manis</b>\n</br>
+        <br><b>2 teaspoons (10ml) soy sauce</b>\n</br>
+        <br><b>Kosher salt</b>\n</br>
+        <br><b>Ground white pepper</b>\n</br>
+    </string>
+    <string name="naasi_method">
+        <br><b>For the Spice Paste add half the shallots to a mortar and grind with the pestle until a coarse purée forms.</b>\n</br>
+        <br><b>Add remaining shallots, followed by garlic, chili, and terasi (if using), grinding with the pestle until each ingredient is mostly incorporated before adding the next.</b>\n</br>
+        <br><b>The final paste should resemble thick oatmeal in texture.</b>\n</br>
+        <br><b>Altrnatively, combine all spice paste ingredients in a small food processor and process until they form a paste.</b>\n</br>
+        <br><b>For the Nasi Goreng If using day-old rice, transfer rice to a bowl and break rice up with your hands into individual grains.</b>\n</br>
+        <br><b>Heatoil in a large wok or skillet over high heat until shimmering.</b>\n</br>
+        <br><b>Add spice paste and cook, stirring constantly and scraping the bottom of the wok or pan to prevent the paste from burning, until a pungent smell permeates your kitchen and the paste turns a few shades darker, 2 to 3 minutes.</b>\n</br>
+        <br><b>Reduce heat to medium at any time if the paste appears to be browning too quickly.</b>\n</br>
+        <br><b>Add rice to the wok and stir to coat with the spice paste.</b>\n</br>
+        <br><b>Add kecap manis and soy sauce. Stir and cook until rice is evenly colored and hot throughout.</b>\n</br>
+        <br><b>Season with salt and white pepper.</b>\n</br>
+        <br><b>Divide rice between two plates and top each plate of rice with a fried egg.</b>\n</br>
+        <br><b>Garnish with cucumber and tomato slices and shower with fried shallots, if you like.</b>\n</br>
+        <br><b>Serve immediately with kecap manis alongside for drizzling.</b>\n</br>
+    </string>
+
+    <string name="lasagna_ing">
+        <br><b>9 lasagna noodles</b>\n</br>
+        <br><b>1-1/4 pounds bulk Italian sausage</b>\n</br>
+        <br><b>3/4 pound ground beef</b>\n</br>
+        <br><b>1 medium onion, diced</b>\n</br>
+        <br><b>3 garlic cloves, minced</b>\n</br>
+        <br><b>2 cans (one 28 ounces, one 15 ounces) crushed tomatoes</b>\n</br>
+        <br><b>2 cans (6 ounces each) tomato paste</b>\n</br>
+        <br><b>2/3 cup water</b>\n</br>
+        <br><b>2 to 3 tablespoons sugar</b>\n</br>
+        <br><b>3 tablespoons plus 1/4 cup minced fresh parsley</b>\n</br>
+        <br><b>2 teaspoons dried basil</b>\n</br>
+        <br><b>3/4 teaspoon fennel seed</b>\n</br>
+        <br><b>3/4 teaspoon salt, divided</b>\n</br>
+        <br><b>1/4 teaspoon coarsely ground pepper</b>\n</br>
+        <br><b>1 large egg, lightly beaten</b>\n</br>
+        <br><b>1 carton (15 ounces) ricotta cheese</b>\n</br>
+        <br><b>4 cups shredded part-skim mozzarella cheese</b>\n</br>
+        <br><b>3/4 cup grated Parmesan cheese</b>\n</br>
+    </string>
+    <string name="lasagna_method">
+        <br><b>Cook noodles according to package directions; drain.</b>\n</br>
+        <br><b>Meanwhile, in a Dutch oven, cook sausage, beef and onion over medium heat 8-10 minutes or until meat is no longer pink, breaking up meat into crumbles.</b>\n</br>
+        <br><b>Add garlic; cook 1 minute. Drain.</b>\n</br>
+        <br><b>Stir in tomatoes, tomato paste, water, sugar, 3 tablespoons parsley, basil, fennel, 1/2 teaspoon salt and pepper; bring to a boil.</b>\n</br>
+        <br><b>Reduce heat; simmer, uncovered, 30 minutes, stirring occasionally.</b>\n</br>
+        <br><b>In a small bowl, mix egg, ricotta cheese, and remaining parsley and salt.</b>\n</br>
+        <br><b>Preheat oven to 375°. Spread 2 cups meat sauce into an ungreased 13x9-in baking dish.</b>\n</br>
+        <br><b>Layer with 3 noodles and a third of the ricotta mixture.</b>\n</br>
+        <br><b>Sprinkle with 1 cup mozzarella cheese and 2 tablespoons Parmesan cheese.</b>\n</br>
+        <br><b>Repeat layers twice.</b>\n</br>
+        <br><b>Top with remaining meat sauce and cheeses (dish will be full).</b>\n</br>
+        <br><b>Bake, covered, 25 minutes. Bake, uncovered, 25 minutes longer or until bubbly.</b>\n</br>
+        <br><b>Let stand 15 minutes before serving.</b>\n</br>
+    </string>
+
+    <string name="salad_ing">
+        <br><b>Fresh greens</b>\n</br>
+        <br><b>English cucumber</b>\n</br>
+        <br><b>Red onion</b>\n</br>
+        <br><b>Nuts</b>\n</br>
+        <br><b>Olive oil</b>\n</br>
+        <br><b>Lemon juice</b>\n</br>
+        <br><b>Dijon mustard</b>\n</br>
+        <br><b>Garlic</b>\n</br>
+        <br><b>Sea salt</b>\n</br>
+        <br><b>Freshly-cracked black pepper</b>\n</br>
+    </string>
+    <string name="salad_method">
+        <br><b>To make the salad dressing recipe, just whisk all of the ingredients together in a bowl until combined.</b>\n</br>
+        <br><b>Toss all of your salad ingredients together and Combine them in a large bowl, drizzle evenly with the dressing, then toss lightly until combined.</b>\n</br>
+        <br><b>And…serve!</b>\n</br>
+    </string>
+
+    <string name="pizza_ing">
+        <br><b>1 1/2 cups (355 ml) warm water (105°F-115°F)</b>\n</br>
+        <br><b>1 package (2 1/4 teaspoons) of active dry yeast</b>\n</br>
+        <br><b>3 3/4 cups (490 g) bread flour</b>\n</br>
+        <br><b>2 tablespoons extra virgin olive oil)</b>\n</br>
+        <br><b>2 teaspoons salt</b>\n</br>
+        <br><b>1 teaspoon sugar</b>\n</br>
+        <br><b>Extra virgin olive oil</b>\n</br>
+        <br><b>Cornmeal</b>\n</br>
+        <br><b>Tomato sauce</b>\n</br>
+        <br><b>Firm mozzarella cheese, grated</b>\n</br>
+        <br><b>Fresh soft mozzarella cheese, separated into small clumps</b>\n</br>
+        <br><b>Fontina cheese, grated</b>\n</br>
+        <br><b>Parmesan cheese, grated</b>\n</br>
+        <br><b>Feta cheese, crumbled</b>\n</br>
+        <br><b>Mushrooms, very thinly sliced if raw, otherwise first sautéed</b>\n</br>
+        <br><b>Bell peppers, stems and seeds removed, very thinly sliced</b>\n</br>
+        <br><b>Italian pepperoncini, thinly sliced</b>\n</br>
+        <br><b>Italian sausage, cooked ahead and crumbled</b>\n</br>
+        <br><b>Chopped fresh basil</b>\n</br>
+        <br><b>Pesto</b>\n</br>
+        <br><b>Pepperoni, thinly sliced</b>\n</br>
+        <br><b>Onions, thinly sliced raw or caramelized</b>\n</br>
+        <br><b>Ham, thinly sliced</b>\n</br>
+    </string>
+    <string name="pizza_method">
+        <br><b>Mix the dough ingredients together by hand or use a hand-held or stand mixer.</b>\n</br>
+        <br><b>Knead by hand or beat the dough with your mixer. I like doing this by hand.</b>\n</br>
+        <br><b>Place dough into a greased mixing bowl, cover tightly, and set aside to rise for about 90 minutes or overnight in the refrigerator.</b>\n</br>
+        <br><b>Punch down risen dough to release air bubbles.</b>\n</br>
+        <br><b>Roll dough out into a 12-inch circle.</b>\n</br>
+        <br><b>Cover and rest as you prep the pizza toppings.</b>\n</br>
+        <br><b>Top with favorite pizza toppings.</b>\n</br>
+        <br><b>Bake pizza at a very high temperature for only about 15 minutes.</b>\n</br>
+    </string>
+
+    <string name="yello_ing">
+        <br><b>3 tablespoons butter</b>\n</br>
+        <br><b>1 cup long-grain white rice</b>\n</br>
+        <br><b>1 teaspoon fresh minced garlic</b>\n</br>
+        <br><b>1 teaspoon onion powder or dried minced onion</b>\n</br>
+        <br><b>1 teaspoon ground turmeric</b>\n</br>
+        <br><b>2 cups chicken broth</b>\n</br>
+        <br><b>1/2 teaspoon Kosher salt or to taste</b>\n</br>
+        <br><b>ground black pepper to taste</b>\n</br>
+        <br><b>2-3 tablespoons fresh cilantro chopped</b>\n</br>
+    </string>
+    <string name="yellow_method">
+        <br><b>Heat butter in a large saucepan over medium heat.</b>\n</br>
+        <br><b>Add the rice and gently stir until rice begins to lightly brown.</b>\n</br>
+        <br><b>Add garlic, onion powder, and turmeric and stir until well mixed in.</b>\n</br>
+        <br><b>Slowly stir in chicken broth and raise heat to medium-high.</b>\n</br>
+        <br><b>Add salt and pepper to taste.</b>\n</br>
+        <br><b>Bring the mix to a boil then turn the heat to low and cover the pan with a lid.</b>\n</br>
+        <br><b>Simmer for 20 to 25 minutes.</b>\n</br>
+        <br><b>Remove from heat and add cilantro, and fluff with a fork.</b>\n</br>
+        <br><b>Serve!!</b>\n</br>
+    </string>
+
+    <string name="kottu_ing">
+        <br><b>3 tablespoons vegetable oil</b>\n</br>
+        <br><b>divided4 eggs</b>\n</br>
+        <br><b>red onion</b>\n</br>
+        <br><b>chopped3 cloves garlic</b>\n</br>
+        <br><b>small carrots</b>\n</br>
+        <br><b>cut into matchstick-size pieces1</b>\n</br>
+        <br><b>chopped cabbage4</b>\n</br>
+        <br><b>scallionssliced into 1/2-inch pieces2</b>\n</br>
+        <br><b>teaspoons soy sauce</b>\n</br>
+        <br><b>1/4 cup curry powder</b>\n</br>
+        <br><b>2 tablespoons chili powder</b>\n</br>
+        <br><b>3 cups chopped paratha</b>\n</br>
+        <br><b>salt</b>\n</br>
+        <br><b>ground black pepper</b>\n</br>
+    </string>
+    <string name="kottu_method">
+        <br><b>Heat 1 tablespoon vegetable oil in a non-stick skillet over medium heat.</b>\n</br>
+        <br><b>Add eggs; cook and stir until scrambled and dry, about 5 minutes.</b>\n</br>
+        <br><b>Remove from heat.</b>\n</br>
+        <br><b>Heat remaining 2 tablespoons vegetable oil in a deep skillet over medium heat.</b>\n</br>
+        <br><b>Stir in onion, garlic, and ginger; cook and stir frequently until onions are nearly translucent, about 5 minutes.</b>\n</br>
+        <br><b>Add carrots; cook and stir until carrots are nearly tender but still crunchy, 7 to 8 minutes.</b>\n</br>
+        <br><b>Stir cabbage and scallions into the skillet; add 1 teaspoon soy sauce.</b>\n</br>
+        <br><b>Sprinkle 2 tablespoons curry powder and 1 tablespoon chili powder over the vegetable mixture; stir until coated.</b>\n</br>
+        <br><b>Turn stove top temperature to low.</b>\n</br>
+        <br><b>Mix eggs and paratha into the vegetable mixture.</b>\n</br>
+        <br><b>Stir in remaining soy sauce, curry powder, and chili powder; stir until coated.</b>\n</br>
+        <br><b>Cook until flavors combine, about 3 minutes.</b>\n</br>
+        <br><b>Season with salt and pepper.</b>\n</br>
+
+    </string>
+    <string name="naan_ing">
+        <br><b>250g/9oz plain flour</b>\n</br>
+        <br><b>2 tsp sugar</b>\n</br>
+        <br><b>½ tsp salt</b>\n</br>
+        <br><b>½ tsp baking powder</b>\n</br>
+        <br><b>120ml/4fl oz milk</b>\n</br>
+        <br><b>2 tbsp vegetable oil, plus extra for greasing</b>\n</br>
+    </string>
+    <string name="naan_method">
+        <br><b>For the dough, sift the flour, sugar, salt and baking powder into a bowl.</b>\n</br>
+        <br><b>In another bowl, mix together the milk and oil.</b>\n</br>
+        <br><b>Make a well in the centre of the flour mixture and pour in the liquid mixture.</b>\n</br>
+        <br><b>Slowly mix together the dough by working from the centre and incorporating the flour from the edges to make a smooth, soft dough.</b>\n</br>
+        <br><b>Knead well for 8–10 minutes, adding a little flour if the dough is too sticky.</b>\n</br>
+        <br><b>Place the dough into an oiled bowl, cover with a damp tea-towel and leave in a warm place for 10–15 minutes.</b>\n</br>
+        <br><b>Form the dough into five balls.</b>\n</br>
+        <br><b>Preheat the grill to medium and place a heavy baking sheet on the upper shelf of the grill to heat.</b>\n</br>
+        <br><b>Roll the dough balls out quite thinly, ideally in a teardrop shape, but really this is just aesthetic.</b>\n</br>
+        <br><b>Sprinkle over your chosen topping and press into the surface of the dough.</b>\n</br>
+        <br><b>Place the naans onto the hot baking sheet and grill for 1–2 minutes, or until lightly browned.</b>\n</br>
+        <br><b>Brush with butter and serve hot.</b>\n</br>
+    </string>
+
+    <string name="spagati_ing">
+        <br><b>1 tbsp olive oil</b>\n</br>
+        <br><b>4 rashers smoked streaky bacon</b>\n</br>
+        <br><b>2 medium onions</b>\n</br>
+        <br><b>2 carrots</b>\n</br>
+        <br><b>2 celery sticks</b>\n</br>
+        <br><b>2 garlic cloves</b>\n</br>
+        <br><b>2-3 sprigs rosemary, leaves picked and finely chopped</b>\n</br>
+        <br><b>500g beef mince</b>\n</br>
+        <br><b>For the bolognese sauce</b>\n</br>
+        <br><b>2 x 400g tins plum tomatoes</b>\n</br>
+        <br><b>small pack basil</b>\n</br>
+        <br><b>1 tsp dried oregano</b>\n</br>
+        <br><b>2 fresh bay leaves</b>\n</br>
+        <br><b>2 tbsp tomato purée</b>\n</br>
+        <br><b>1 red chilli</b>\n</br>
+        <br><b>125ml red wine</b>\n</br>
+    </string>
+    <string name="spati_method">
+        <br><b>Put a large saucepan on a medium heat and add 1 tbsp olive oil.</b>\n</br>
+        <br><b>Add 4 finely chopped bacon rashers and fry for 10 mins until golden and crisp.</b>\n</br>
+        <br><b>Reduce the heat and add the 2 onions, 2 carrots, 2 celery sticks, 2 garlic cloves and the leaves from 2-3 sprigs rosemary, all finely chopped, then fry for 10 mins.</b>\n</br>
+        <br><b>Stir the veg often until it softens.</b>\n</br>
+        <br><b>Increase the heat to medium-high, add 500g beef mince and cook stirring for 3-4 mins until the meat is browned all over.</b>\n</br>
+        <br><b>Add 2 tins plum tomatoes, the finely chopped leaves from ¾ small pack basil, 1 tsp dried oregano, 2 bay leaves, 2 tbsp tomato purée, 1 beef stock cube, 1 deseeded and finely chopped red chilli (if using), 125ml red wine and 6 halved cherry tomatoes.</b>\n</br>
+        <br><b>Stir with a wooden spoon, breaking up the plum tomatoes.</b>\n</br>
+        <br><b>Bring to the boil, reduce to a gentle simmer and cover with a lid.</b>\n</br>
+        <br><b>Cook for 1 hr 15 mins stirring occasionally, until you have a rich, thick sauce.</b>\n</br>
+        <br><b>Add the 75g grated parmesan, check the seasoning and stir.</b>\n</br>
+        <br><b>When the bolognese is nearly finished, cook 400g spaghetti following the pack instructions.</b>\n</br>
+        <br><b>Drain the spaghetti and stir into the bolognese sauce.</b>\n</br>
+        <br><b>Serve with more grated parmesan, the remaining basil leaves and crusty bread, if you like.</b>\n</br>
+    </string>
+
+    <string name="pasta_ing">
+        <br><b>4 tbsp olive oil</b>\n</br>
+        <br><b>1 onion</b>\n</br>
+        <br><b>2 garlic cloves, crushed</b>\n</br>
+        <br><b>¼ tsp chilli flakes</b>\n</br>
+        <br><b>2 x 400g cans chopped tomatoes</b>\n</br>
+        <br><b>1 tsp caster sugar</b>\n</br>
+        <br><b>6 tbsp mascarpone</b>\n</br>
+        <br><b>4 skinless chicken breasts, sliced into strips</b>\n</br>
+        <br><b>70g mature cheddar, grated</b>\n</br>
+        <br><b>50g grated mozzarella</b>\n</br>
+        <br><b>½ small bunch of parsley</b>\n</br>
+    </string>
+    <string name="pasta_method">
+        <br><b>Heat 2 tbsp of the oil in a pan over a medium heat and fry the onion gently for 10-12 mins.</b>\n</br>
+        <br><b>Add the garlic and chilli flakes and cook for 1 min.</b>\n</br>
+        <br><b>Tip in the tomatoes and sugar and season to taste.</b>\n</br>
+        <br><b>Simmer uncovered for 20 mins or until thickened, then stir through the mascarpone.</b>\n</br>
+        <br><b>Heat 1 tbsp of oil in a non-stick frying pan.</b>\n</br>
+        <br><b>Season the chicken and fry for 5-7 mins or until the chicken is cooked through.</b>\n</br>
+        <br><b>Heat the oven to 220C/200C fan/gas 7.</b>\n</br>
+        <br><b>Cook the penne following pack instructions.</b>\n</br>
+        <br><b>Drain and toss with the remaining oil.</b>\n</br>
+        <br><b>Tip the pasta into a medium sized ovenproof dish.</b>\n</br>
+        <br><b>Stir in the chicken and pour over the sauce.</b>\n</br>
+        <br><b>Top with the cheddar, mozzarella and parsley.</b>\n</br>
+        <br><b>Bake for 20 mins or until golden brown and bubbling.</b>\n</br>
+    </string>
+
+    <string name="patis_ing">
+        <br><b>For the dough</b>\n</br>
+        <br><b>235 Grams flour</b>\n</br>
+        <br><b>100 Grams buter (cold)</b>\n</br>
+        <br><b>1 egg yolk</b>\n</br>
+        <br><b>1 Teaspoon salt</b>\n</br>
+        <br><b>5 Tablespoon cold water</b>\n</br>
+        <br><b>For the filling</b>\n</br>
+        <br><b>250 Grams caned fish (mashed)</b>\n</br>
+        <br><b>1 carrot (grated)</b>\n</br>
+        <br><b>350 Grams potato (boiled and mashed)</b>\n</br>
+        <br><b>1 Teaspoon salt</b>\n</br>
+        <br><b>3 green chilli (chopped)</b>\n</br>
+        <br><b>1 onion (chopped)</b>\n</br>
+        <br><b>3 garlic (chopped)</b>\n</br>
+        <br><b>2 Teaspoon black pepper</b>\n</br>
+        <br><b>2 Teaspoon curry powder</b>\n</br>
+        <br><b>1 Teaspoon chilli powder</b>\n</br>
+        <br><b>4 pandan leaves (2cm thin slices)</b>\n</br>
+        <br><b>8 curry leaves</b>\n</br>
+    </string>
+    <string name="patis_method">
+        <br><b>Now add an egg yolk and butter, using your fingertips rub the butter and egg yolk into flour until you have a mixture that resembles coarse breadcrumbs with no large lumps of butter remaining.</b>\n</br>
+        <br><b>Now add water, one tablespoon at a time until the flour mixture get into ball shape.</b>\n</br>
+        <br><b>Put the dough along with the bowl and covered with a cling film into a refrigerator for about 30 minutes.</b>\n</br>
+        <br><b>Take one piece and using the dough roller flatten out the dough into a thin sheet.</b>\n</br>
+        <br><b>Take one piece of cut dough sheet spread and place a small spoonful of the fish mixture over one side of the dough.</b>\n</br>
+        <br><b>When oil is hot and bubbly fry patties for about 5 minutes until both sides are light brown.</b>\n</br>
+    </string>
+
+    <string name="noodle_ing">
+        <br><b>When2 tablespoons vegetable oil (30 mL)</b>\n</br>
+        <br><b>When5 cloves garlic, minced</b>\n</br>
+        <br><b>When4 spring onions, divided</b>\n</br>
+        <br><b>When2 carrots, cut into matchsticks</b>\n</br>
+        <br><b>When1 cup snap pea (100 g)</b>\n</br>
+        <br><b>When2 tablespoons brown sugar</b>\n</br>
+        <br><b>When3 tablespoons soy sauce</b>\n</br>
+        <br><b>When9 oz dried rice noodles (250 g)</b>\n</br>
+    </string>
+    <string name="noodle_method">
+        <br><b>WhenHeat the oil in a skillet over medium heat.</b>\n</br>
+        <br><b>WhenAdd the garlic and 3 spring onions and cook for 2-3 minutes.</b>\n</br>
+        <br><b>WhenAdd the carrots and peas, before stirring in the brown sugar and soy sauce.</b>\n</br>
+        <br><b>WhenAdd the noodles and mix together for another couple of minutes.</b>\n</br>
+        <br><b>WhenSeason with salt and pepper, then slice remaining spring onion and top to serve.</b>\n</br>
+        <br><b>WhenEnjoy!</b>\n</br>
+    </string>
+
+    <string name="bisci_ing">
+        <br><b>200g Icing sugar</b>\n</br>
+        <br><b>100g Margarine or butter</b>\n</br>
+        <br><b>300g Marie biscuits</b>\n</br>
+        <br><b>300 ml Hot milk</b>\n</br>
+        <br><b>50g Chopped cashew nuts to decorate</b>\n</br>
+        <br><b>1 1/2 tsp Cocoa powder</b>\n</br>
+    </string>
+    <string name="bisci_method">
+        <br><b>Sieve the icing sugar two times and add it to a bowl.</b>\n</br>
+        <br><b>And then put the margarine to the same bowl,followed by coca powder and make chocolate icing.</b>\n</br>
+        <br><b>Pour some hot milk in to a large plate and soak part of the biscuits.</b>\n</br>
+        <br><b>When you see the biscuits are bigger,remove and arrange them in the bottom of the pudding bowl.</b>\n</br>
+        <br><b>Fill the bottom with soaked biscuits.</b>\n</br>
+        <br><b>Wait one or two minutes.</b>\n</br>
+        <br><b>Apply a very thin layer of chocolate icing.</b>\n</br>
+        <br><b>Make sure you cover the biscuit layer in the bottom also.</b>\n</br>
+        <br><b>Then take other 200g of biscuits and soak them in hot milk and fill a thick layer of as in the step two.</b>\n</br>
+        <br><b>Then apply the remaining chocolate icing on the top of the pudding bowl.</b>\n</br>
+        <br><b>Scatter the chopped cashew nuts on the top.</b>\n</br>
+        <br><b>Allow the pudding to chill for 30 minutes or more and enjoy.</b>\n</br>
+    </string>
+
+    <string name="mousse_ing">
+        <br><b>5 1/4 ounces bittersweet chocolate, coarsely chopped</b>\n</br>
+        <br><b>14 ounces cold heavy cream</b>\n</br>
+        <br><b>3 large egg whites</b>\n</br>
+        <br><b>1-ounce sugar</b>\n</br>
+        <br><b>Sweetened whipped cream, for garnish, optional</b>\n</br>
+        <br><b>Shaved bittersweet chocolate, for garnish, optional</b>\n</br>
+    </string>
+    <string name="mousse_method">
+        <br><b>Place chocolate in a large bowl set over a bain marie or in a double boiler at a low simmer.</b>\n</br>
+        <br><b>Stir chocolate until melted. Turn off the heat and let stand.</b>\n</br>
+        <br><b>Beat the cream over ice until it forms soft peaks.</b>\n</br>
+        <br><b>Set aside and hold at room temperature.</b>\n</br>
+        <br><b>With a mixer, whip egg to soft peaks.</b>\n</br>
+        <br><b>Gradually add the sugar and continue whipping until firm.</b>\n</br>
+        <br><b>Remove the chocolate from the bain marie and using a whisk, fold in the egg whites all at once.</b>\n</br>
+        <br><b>When the whites are almost completely incorporated, fold in the whipped cream.</b>\n</br>
+        <br><b>Cover the mousse and refrigerate for approximately 1 hour or until set.</b>\n</br>
+        <br><b>Serve in goblets topped with more whipped cream and shaved chocolate, if desired.</b>\n</br>
+    </string>
+
+    <string name="caremal_ing">
+        <br><b>1-1/2 cups sugar, divided</b>\n</br>
+        <br><b>6 large eggs</b>\n</br>
+        <br><b>3 cups whole milk</b>\n</br>
+        <br><b>2 teaspoons vanilla extract</b>\n</br>
+    </string>
+    <string name="caremal_method">
+        <br><b>In a large heavy saucepan, cook and stir 3/4 cup sugar over low heat until sugar is melted and golden.</b>\n</br>
+        <br><b>Pour into eight 6-oz. custard cups, tilting to coat bottom of cup; let stand for 10 minutes.</b>\n</br>
+        <br><b>In a large bowl, beat the eggs, milk, vanilla and remaining sugar until combined but not foamy.</b>\n</br>
+        <br><b>Pour over caramelized sugar.</b>\n</br>
+        <br><b>Place the cups in two 8-in. square baking pans.</b>\n</br>
+        <br><b>Pour boiling water in pans to a depth of 1 in. Bake at 350° for 40-45 minutes or until a knife inserted in the center comes out clean.</b>\n</br>
+        <br><b>Remove from pans to cool on wire racks.</b>\n</br>
+        <br><b>To unmold, run a knife around rim of cup and invert onto dessert place.</b>\n</br>
+        <br><b>Serve warm or chilled.</b>\n</br>
+    </string>
+
+    <string name="donut_ing">
+        <br><b>1 c. whole milk</b>\n</br>
+        <br><b>1/4 c. plus 1 tsp. granulated sugar, divided</b>\n</br>
+        <br><b>1 packet (or 2 1/4 tsp.) active dry yeast</b>\n</br>
+        <br><b>4 c. all-purpose flour, plus more if needed</b>\n</br>
+        <br><b>1/2 tsp. kosher salt</b>\n</br>
+        <br><b>6 tbsp. melted butter</b>\n</br>
+        <br><b>2 large eggs</b>\n</br>
+        <br><b>1/2 tsp. pure vanilla extract</b>\n</br>
+        <br><b>Canola or vegetable oil, for frying</b>\n</br>
+    </string>
+    <string name="donut_method">
+        <br><b>Grease a large bowl with cooking spray and set aside.</b>\n</br>
+        <br><b>In a small, microwave-safe bowl or glass measuring cup, add milk. Microwave until lukewarm, 40 seconds.</b>\n</br>
+        <br><b>Add a teaspoon of sugar and stir to dissolve, then sprinkle over yeast and let sit until frothy, about 8 minutes.</b>\n</br>
+        <br><b>In a medium bowl, whisk together flour and salt.</b>\n</br>
+        <br><b>In a large bowl, whisk together remaining sugar, butter, eggs, and vanilla with a wooden spoon.</b>\n</br>
+        <br><b>Pour in yeast mixture, mix to combine, then add in dry ingredients, stirring with a wooden spoon until a shaggy dough forms.</b>\n</br>
+        <br><b>Transfer to a lightly floured surface and knead until elastic and only slightly tacky, adding more flour a teaspoon at a time if needed, about 5 minutes.</b>\n</br>
+        <br><b>Form into a tight ball then place dough in oiled bowl and cover with a clean dish towel.</b>\n</br>
+        <br><b>Let dough rise in a warm spot in your kitchen until doubled in size, about 1 hour.</b>\n</br>
+        <br><b>Line a large baking sheet with parchment.</b>\n</br>
+        <br><b>Punch down dough, then turn onto a lightly floured work surface and roll out into a ½” thick rectangle.</b>\n</br>
+        <br><b>Using a doughnut cutter or 3” and 1” biscuit cutters, punch out your doughnuts.</b>\n</br>
+        <br><b>Re-knead scraps together and punch out as well. Place doughnuts and holes onto baking sheets, cover with dish towel, and let rise again, about 40 minutes more.</b>\n</br>
+    </string>
+
+    <string name="waffle_ing">
+        <br><b>2 eggs</b>\n</br>
+        <br><b>2 cups all-purpose flour</b>\n</br>
+        <br><b>1 3/4 cups milk</b>\n</br>
+        <br><b>1/2 cup vegetable oil</b>\n</br>
+        <br><b>1 tablespoon white sugar</b>\n</br>
+        <br><b>1\4 teaspoons baking powder</b>\n</br>
+        <br><b>1/4 teaspoon salt</b>\n</br>
+        <br><b>1/2 teaspoon vanilla extract</b>\n</br>
+    </string>
+    <string name="waffle_method">
+        <br><b>Preheat waffle iron.</b>\n</br>
+        <br><b>Beat eggs in large bowl with hand beater until fluffy.</b>\n</br>
+        <br><b>Beat in flour, milk, vegetable oil, sugar, baking powder, salt and vanilla, just until smooth.</b>\n</br>
+        <br><b>Spray preheated waffle iron with non-stick cooking spray.</b>\n</br>
+        <br><b>Pour mix onto hot waffle iron. Cook until golden brown.</b>\n</br>
+        <br><b>Serve hot.</b>\n</br>
+    </string>
+
+    <string name="watalappan_ing">
+        <br><b>4 whole eggs</b>\n</br>
+        <br><b>2 egg yolks</b>\n</br>
+        <br><b>1/2 lb natural dark brown molasses sugar</b>\n</br>
+        <br><b>finely grated kitul jaggery</b>\n</br>
+        <br><b>⅛ cup hot water</b>\n</br>
+        <br><b>3 -4 cardamom pod seeds crushed just over ¼ tsp</b>\n</br>
+        <br><b>¼ tsp of nutmeg</b>\n</br>
+        <br><b>2 cups of thick coconut milk (First press milk)</b>\n</br>
+        <br><b>Pinch of salt</b>\n</br>
+    </string>
+    <string name="watalappan_method">
+        <br><b>Preheat oven to 320°F / 160°C</b>\n</br>
+        <br><b>Oil and prepare 7-8, ½ cup capacity ramekins.</b>\n</br>
+        <br><b>In a large bowl combine the sugar and water and stir until it becomes a paste with no lumps.</b>\n</br>
+        <br><b>Add the eggs and egg yolk, spices and salt and whisk until well combined.</b>\n</br>
+        <br><b>Take care not to make the egg mixture frothy.</b>\n</br>
+        <br><b>Add the 2 cups of coconut milk and whisk well.</b>\n</br>
+        <br><b>Pour the mix into the prepared ramekins.</b>\n</br>
+        <br><b>Cover the ramekins / dish with foil.</b>\n</br>
+        <br><b>Bake the ramekins/dish in a water bath for about 30 - 40 minutes for the ramekins and up to an hour if in a large dish, depending on the depth of it.</b>\n</br>
+        <br><b>You want the custard to set, but the middle to be very slightly wobbly.</b>\n</br>
+        <br><b>Remove from the oven and let them cool for about 15 minutes in the water bath.</b>\n</br>
+        <br><b>When cool enough to handle, remove them from the water bath and cover the ramekins with plastic wrap, and place it in the fridge to chill for at least 3 hours.</b>\n</br>
+        <br><b>Best chilled overnight.</b>\n</br>
+        <br><b>Serve as is, or with some cashew nuts on top.</b>\n</br>
+    </string>
+
+    <string name="chococake_ing">
+        <br><b>butter and flour for coating and dusting the cake pan</b>\n</br>
+        <br><b>3 cups all-purpose flour</b>\n</br>
+        <br><b>3 cups granulated sugar</b>\n</br>
+        <br><b>1 1/2 cups unsweetened cocoa powder</b>\n</br>
+        <br><b>1 tablespoon baking soda</b>\n</br>
+        <br><b>1 1/2 teaspoons baking powder</b>\n</br>
+        <br><b>1 1/2 teaspoons salt</b>\n</br>
+        <br><b>4 large eggs</b>\n</br>
+        <br><b>1 1/2 cups buttermilk</b>\n</br>
+        <br><b>1 1/2 cups warm water</b>\n</br>
+        <br><b>1/2 cup vegetable oil</b>\n</br>
+        <br><b>2 teaspoons vanilla extract</b>\n</br>
+    </string>
+    <string name="chococake_method">
+        <br><b>Heat oven to 350 degrees.</b>\n</br>
+        <br><b>Butter three 9-inch cake rounds.</b>\n</br>
+        <br><b>Dust with flour and tap out the excess.</b>\n</br>
+        <br><b>Mix together flour, sugar, cocoa, baking soda, baking powder, and salt in a stand mixer using a low speed until combined.</b>\n</br>
+        <br><b>Add eggs, buttermilk, warm water, oil, and vanilla.</b>\n</br>
+        <br><b>Beat on a medium speed until smooth.</b>\n</br>
+        <br><b>This should take just a couple of minutes.</b>\n</br>
+        <br><b>Divide batter among the three pans.</b>\n</br>
+        <br><b>I found that it took just over 3 cups of the batter to divide it evenly.</b>\n</br>
+        <br><b>Bake for 30-35 minutes until a toothpick inserted into the center comes out clean.</b>\n</br>
+        <br><b>Cool on wire racks for 15 minutes and then turn out the cakes onto the racks and allow to cool completely.</b>\n</br>
+        <br><b>Frost with your favorite frosting and enjoy!</b>\n</br>
+    </string>
+
+    <string name="buttercake_ing">
+        <br><b>1 cup butter, softened</b>\n</br>
+        <br><b>2 cups sugar</b>\n</br>
+        <br><b>4 large eggs, room temperature</b>\n</br>
+        <br><b>2 teaspoons vanilla extract</b>\n</br>
+        <br><b>3 cups all-purpose flour</b>\n</br>
+        <br><b>1 teaspoon baking powder</b>\n</br>
+        <br><b>1/2 teaspoon baking soda</b>\n</br>
+        <br><b>1/2 teaspoon salt</b>\n</br>
+    </string>
+
+    <string name="buttercake_method">
+        <br><b>In a large bowl, cream butter and sugar until light and fluffy.</b>\n</br>
+        <br><b>Add eggs, one at a time, beating well after each addition.</b>\n</br>
+        <br><b>Beat in vanilla. Combine the flour, baking powder, baking soda and salt; add to creamed mixture alternately with buttermilk, beating well after each addition.</b>\n</br>
+        <br><b>Pour into a greased and floured 10-in. tube pan.</b>\n</br>
+        <br><b>Bake at 350° until a toothpick inserted in center comes out clean, 55-70 minutes.</b>\n</br>
+        <br><b>Cool 10 minutes.</b>\n</br>
+        <br><b>Run a knife around edges and center tube of pan.</b>\n</br>
+        <br><b>Invert cake onto a wire rack over waxed paper.</b>\n</br>
+        <br><b>For sauce, combine the sugar, butter and water in a small saucepan.</b>\n</br>
+        <br><b>Cook over medium heat just until butter is melted and sugar is dissolved.</b>\n</br>
+        <br><b>Remove from the heat; stir in extracts.</b>\n</br>
+        <br><b>Poke holes in the top of the warm cake; spoon 1/4 cup sauce over cake.</b>\n</br>
+        <br><b>Let stand until sauce is absorbed.</b>\n</br>
+        <br><b>Repeat twice.</b>\n</br>
+        <br><b>Poke holes into sides of cake; brush remaining sauce over sides.</b>\n</br>
+        <br><b>Cool completely.</b>\n</br>
+    </string>
+
+    <string name="cuppies_ing">
+        <br><b>3/4 cup (95g) all-purpose flour</b>\n</br>
+        <br><b>1/2 cup (45g) unsweetened natural cocoa powder</b>\n</br>
+        <br><b>3/4 teaspoon baking powder</b>\n</br>
+        <br><b>1/2 teaspoon baking soda</b>\n</br>
+        <br><b>1/4 teaspoon salt</b>\n</br>
+        <br><b>2 large eggs, at room temperature</b>\n</br>
+        <br><b>1/2 cup (100g) granulated sugar</b>\n</br>
+        <br><b>1/2 cup (100g) packed light brown sugar</b>\n</br>
+        <br><b>1/3 cup (80ml) vegetable or canola oil</b>\n</br>
+        <br><b>2 teaspoons pure vanilla extract</b>\n</br>
+        <br><b>1/2 cup (120ml) buttermilk</b>\n</br>
+    </string>
+    <string name="cuppies_method">
+        <br><b>Preheat the oven to 350°F (177°C).</b>\n</br>
+        <br><b>Line a 12-cup muffin pan with cupcake liners.</b>\n</br>
+        <br><b>Line a second pan with 2 liners – this recipe makes about 14 cupcakes.</b>\n</br>
+        <br><b>Whisk the flour, cocoa powder, baking powder, baking soda, and salt together in a large bowl until thoroughly combined.</b>\n</br>
+        <br><b>In a medium bowl, whisk the eggs, granulated sugar, brown sugar, oil, and vanilla together until combined.</b>\n</br>
+        <br><b>Pour half of the wet ingredients into the dry ingredients.</b>\n</br>
+        <br><b>Then half of the buttermilk. Gently whisk for a few seconds.</b>\n</br>
+        <br><b>Repeat with the remaining wet ingredients and buttermilk.</b>\n</br>
+        <br><b>Stir until *just* combined; do not overmix.</b>\n</br>
+        <br><b>The batter will be thin.</b>\n</br>
+        <br><b>Pour or spoon the batter into the liners.</b>\n</br>
+        <br><b>Fill only halfway to avoid spilling over the sides or sinking.</b>\n</br>
+        <br><b>Bake for 18-21 minutes, or until a toothpick inserted in the center comes out clean.</b>\n</br>
+        <br><b>Allow to cool completely before frosting.</b>\n</br>
+        <br><b>Frost cooled cupcakes however you’d like.</b>\n</br>
+        <br><b>I used Wilton 1M piping tip for these pictured cupcakes.</b>\n</br>
+        <br><b>Top with sprinkles, if desired.</b>\n</br>
+    </string>
+
+    <string name="fruitcake_ing">
+        <br><b>2 cups packed brown sugar</b>\n</br>
+        <br><b>3 cups all-purpose flour</b>\n</br>
+        <br><b>1 tablespoon baking soda</b>\n</br>
+        <br><b>2 tablespoons ground cinnamon</b>\n</br>
+        <br><b>2 tablespoons ground cloves</b>\n</br>
+        <br><b>2 tablespoons ground allspice</b>\n</br>
+        <br><b>2 tablespoons ground nutmeg</b>\n</br>
+        <br><b>4 eggs</b>\n</br>
+        <br><b>2 tablespoons lemon zest</b>\n</br>
+        <br><b>2 tablespoons vanilla extract</b>\n</br>
+        <br><b>½ cup brandy</b>\n</br>
+        <br><b>1 ½ cups raisins</b>\n</br>
+        <br><b>1 ½ cups chopped nuts</b>\n</br>
+        <br><b>1 ½ cups dried mixed fruit</b>\n</br>
+        <br><b>1 ½ cups butter, melted</b>\n</br>
+        <br><b>1 ¾ cups brandy</b>\n</br>
+    </string>
+    <string name="fruitcake_method">
+        <br><b>Preheat oven to 225 degrees F (110 degrees C). Grease and flour a tube pan.</b>\n</br>
+        <br><b>In a large bowl, combine sugar, flour, soda, spices, eggs, lemon rind, vanilla, 1/2 cup brandy, fruit, nuts, and melted butter or margarine.</b>\n</br>
+        <br><b>Mix thoroughly. Pour into prepared pan.</b>\n</br>
+        <br><b>Bake for 1 hour, or until a tester inserted in the center comes out clean.</b>\n</br>
+        <br><b>Cool on a wire rack.</b>\n</br>
+        <br><b>Wrap cooled cake in foil.</b>\n</br>
+        <br><b>Sprinkle 2 tablespoons brandy over the cake everyday for 2 weeks.</b>\n</br>
+    </string>
+
+    <string name="lava_ing">
+        <br><b>Baking spray, for spraying custard cups</b>\n</br>
+        <br><b>1 stick butter</b>\n</br>
+        <br><b>2 ounces bittersweet chocolate</b>\n</br>
+        <br><b>2 ounces semisweet chocolate</b>\n</br>
+        <br><b>1 1/4 cups powdered sugar</b>\n</br>
+        <br><b>2 whole eggs</b>\n</br>
+        <br><b>3 egg yolks</b>\n</br>
+        <br><b>1 teaspoon vanilla</b>\n</br>
+        <br><b>1/2 cup all-purpose flour</b>\n</br>
+        <br><b>Vanilla ice cream, for serving</b>\n</br>
+    </string>
+    <string name="lava_method">
+        <br><b>Preheat the oven to 425 degrees F.</b>\n</br>
+        <br><b>Spray four custard cups with baking spray and place on a baking sheet.</b>\n</br>
+        <br><b>Microwave the butter, bittersweet chocolate and semisweet chocolate in a large bowl on high until the butter is melted, about 1 minute.</b>\n</br>
+        <br><b>Whisk until the chocolate is also melted.</b>\n</br>
+        <br><b>Stir in the sugar until well blended.</b>\n</br>
+        <br><b>Whisk in the eggs and egg yolks, then add the vanilla.</b>\n</br>
+        <br><b>Stir in the flour.</b>\n</br>
+        <br><b>Divide the mixture among the custard cups.</b>\n</br>
+        <br><b>Bake until the sides are firm and the centers are soft, about 13 minutes.</b>\n</br>
+        <br><b>Let stand 1 minute.</b>\n</br>
+        <br><b>Invert on individual plates while warm and serve with vanilla ice cream.</b>\n</br>
+    </string>
+
+    <string name="milkshake_ing">
+        <br><b>2/3 cup milk</b>\n</br>
+        <br><b>2 cups ice cream use chocolate ice cream for a chocolate shake</b>\n</br>
+        <br><b>3 tablespoons chocolate syrup or mix ins of your choice</b>\n</br>
+        <br><b>whipped cream for topping optional</b>\n</br>
+    </string>
+    <string name="milkshake_method">
+        <br><b>Combine milk, chocolate syrup and chocolate ice cream in a blender.</b>\n</br>
+        <br><b>Blend until smooth.</b>\n</br>
+        <br><b>Pour into cups and garnish with whipped cream and sprinkles if desired.</b>\n</br>
+        <br><b>Serve immediately.</b>\n</br>
+    </string>
+
+    <string name="icecoffe_ing">
+        <br><b>4 teaspoons instant coffee granules</b>\n</br>
+        <br><b>1 cup boiling water</b>\n</br>
+        <br><b>Sugar substitute equivalent to 4 teaspoons sugar, optional</b>\n</br>
+        <br><b>1 cup fat-free milk</b>\n</br>
+        <br><b>4 teaspoons chocolate syrup</b>\n</br>
+        <br><b>1/8 teaspoon vanilla extract</b>\n</br>
+        <br><b>Ice cubes</b>\n</br>
+    </string>
+    <string name="icecoffe_method">
+        <br><b>In a large bowl, dissolve coffee in water.</b>\n</br>
+        <br><b>Add sweetener if desired.</b>\n</br>
+        <br><b>Stir in the milk, chocolate syrup and vanilla; mix well.</b>\n</br>
+        <br><b>Serve over ice.</b>\n</br>
+    </string>
+
+    <string name="faluda_ing">
+        <br><b>½ cup Homemade Falooda Syrup</b>\n</br>
+        <br><b>1 ½ cup cold milk (up to 1 cup)</b>\n</br>
+        <br><b>2 tsp kasa-kasaa</b>\n</br>
+        <br><b>½ cup water</b>\n</br>
+        <br><b>Strawberry jello jello cut into 1 cm cubes</b>\n</br>
+        <br><b>¼ cup cooked, roasted vermicelli soaking in cold water</b>\n</br>
+        <br><b>½ cup vanilla ice cream</b>\n</br>
+    </string>
+    <string name="faluda_method">
+        <br><b>Soak the tukmaria seeds in about 1/2 cup of water for about 10 minutes, until they form a "gel coating".</b>\n</br>
+        <br><b>Chop the cooked vermicelli into smaller pieces and set aside, covered (to prevent the noodles from drying out).</b>\n</br>
+        <br><b>Unmold the jello and cut into small cubes.</b>\n</br>
+        <br><b>Keep in the fridge until needed.</b>\n</br>
+        <br><b>Take two glasses, and add some strawberry jello to the bottom.</b>\n</br>
+        <br><b>Follow that with about 1 tbsp chopped, cooked vermicelli. Next, add the soaked tukmaria (basil) seeds.</b>\n</br>
+        <br><b>Pour about 3/4 cup of chilled milk (more if you like the drink to be less sweet).</b>\n</br>
+        <br><b>Pour in the 1/4 cup of the falooda syrup (this should create a pink ombre look).</b>\n</br>
+        <br><b>Add a scoop of vanilla ice cream and a little extra jello on top.</b>\n</br>
+        <br><b>Serve with a spoon and a straw.</b>\n</br>
+    </string>
+
+    <string name="dalgona_ing">
+        <br><b>2 tbsp instant coffee or espresso powder</b>\n</br>
+        <br><b>2 tbsp sugar</b>\n</br>
+        <br><b>2 tbsp very hot water</b>\n</br>
+        <br><b>400ml/14fl oz milk</b>\n</br>
+    </string>
+    <string name="dalgona_method">
+        <br><b>Add the instant coffee, sugar and hot water to a medium mixing bowl.</b>\n</br>
+        <br><b>Using an electric hand-held mixer, whip the coffee mixture until it is light brown, fluffy and holds stiff peaks when the whisk is removed.</b>\n</br>
+        <br><b>Heat the milk, if desired, and divide between two heatproof glasses.</b>\n</br>
+        <br><b>Spoon dollops of the frothed coffee mixture on top and smooth out with a spoon.</b>\n</br>
+        <br><b>Serve.</b>\n</br>
+    </string>
+    <string name="mango_ing">
+        <br><b>1 cup chopped ripe mango</b>\n</br>
+        <br><b>1/2 cup low-fat milk</b>\n</br>
+        <br><b>1/2 cup ice</b>\n</br>
+        <br><b>1/4 cup plain low-fat yogurt</b>\n</br>
+        <br><b>1 tablespoon honey</b>\n</br>
+    </string>
+    <string name="mango_method">
+        <br><b>Place the mango, milk, ice, yogurt, and honey in a blender.</b>\n</br>
+        <br><b>Blend until smooth and frothy.</b>\n</br>
+    </string>
+
+
+</resources>

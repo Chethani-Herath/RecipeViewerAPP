@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#E2D567</color>
+    <color name="colorPrimaryDark">#BEB87E</color>
+    <color name="meroon">#160101</color>
+    <color name="black">#0C0C0C</color>
+    <color name="cream">#FCF3AE</color>
+    <color name="pink">#E4739A</color>
+    <color name="lightpink">#F3D6DE</color>
+    <color name="darkpink">#7A1631</color>
+    <color name="midlepink">#E0406C</color>
+    <color name="oo">#DFC8C0</color>
+    <color name="bage">#F1F1CC</color>
+    <color name="laaaightpink">#F5C2D1</color>
+
+</resources>

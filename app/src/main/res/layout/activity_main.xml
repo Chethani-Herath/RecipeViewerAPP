@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity"
+    android:background="@drawable/kitchen">
+
+    <TextView
+        android:id="@+id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Kitchen"
+        android:textSize="70dp"
+        android:fontFamily="cursive"
+        android:textColor="@color/colorPrimary"
+        android:paddingLeft="25dp"
+        android:paddingTop="100dp"
+        android:textStyle="bold"/>
+
+    <TextView
+        android:id="@+id/txt_secondname"
+        android:layout_below="@id/txt_name"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Story"
+        android:textSize="70dp"
+        android:fontFamily="cursive"
+        android:textColor="@color/colorPrimary"
+        android:paddingLeft="45dp"
+        android:textStyle="bold"
+        />
+
+    <TextView
+        android:id="@+id/txt_welcome"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="A recipe is a"
+        android:layout_below="@id/txt_secondname"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:paddingLeft="30dp"
+        android:fontFamily="casual"/>
+
+    <TextView
+        android:id="@+id/txt_welcome2"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="STORY that ends with a "
+        android:layout_below="@id/txt_welcome"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:paddingLeft="10dp"
+        android:fontFamily="casual"/>
+
+
+    <TextView
+        android:id="@+id/txt_welcome3"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="GOOD MEAL"
+        android:layout_below="@id/txt_welcome2"
+        android:textColor="@color/colorPrimary"
+        android:textSize="20dp"
+        android:paddingLeft="60dp"
+        android:fontFamily="casual"/>
+
+
+
+
+
+
+
+
+
+</RelativeLayout>

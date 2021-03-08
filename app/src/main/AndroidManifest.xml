@@ -1,0 +1,101 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.recipeapp">
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.CALL_PHONE" />
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".YelloRiceVideo"></activity>
+        <activity android:name=".WatalappanVideo" />
+        <activity android:name=".WaffleVideo" />
+        <activity android:name=".SpagatyVideo" />
+        <activity android:name=".SaladVideo" />
+        <activity android:name=".PizzaVideo" />
+        <activity android:name=".PatisVideo" />
+        <activity android:name=".PastaVideo" />
+        <activity android:name=".PancakeVideo" />
+        <activity android:name=".NoodleVideo" />
+        <activity android:name=".NaasiVideo" />
+        <activity android:name=".NaanVideo" />
+        <activity android:name=".MousseVide" />
+        <activity android:name=".MilkshakeVideo" />
+        <activity android:name=".MilkriceVideo" />
+        <activity android:name=".MangoVideo" />
+        <activity android:name=".LavaVideo" />
+        <activity android:name=".LasagnaVideo" />
+        <activity android:name=".KottuVideo" />
+        <activity android:name=".IcecoffeVideo" />
+        <activity android:name=".FruitcakeVideo" />
+        <activity android:name=".FriedRiceVideo" />
+        <activity android:name=".FaludaVideo" />
+        <activity android:name=".CookingTips" />
+        <activity android:name=".DosaVideo" />
+        <activity android:name=".DonutVideo" />
+        <activity android:name=".Dalgonavideo" />
+        <activity android:name=".CuppiesVideo" />
+        <activity android:name=".ChococakeVideo" />
+        <activity android:name=".CremalVideo" />
+        <activity android:name=".ButtercakeVideo" />
+        <activity android:name=".BisciPuddingVideo" />
+        <activity android:name=".HopperVideoPlayer" />
+        <activity android:name=".StringHopperVideo" />
+        <activity android:name=".PittuVideoPlayer" />
+        <activity android:name=".Mangosmootie" />
+        <activity android:name=".Dalgonacoffe" />
+        <activity android:name=".Faluda" />
+        <activity android:name=".Icecoffe" />
+        <activity android:name=".Milkshake" />
+        <activity android:name=".Lavacake" />
+        <activity android:name=".Fruitcake" />
+        <activity android:name=".Cuppies" />
+        <activity android:name=".Buttercake" />
+        <activity android:name=".Chococake" />
+        <activity android:name=".Watalappam" />
+        <activity android:name=".Waffles" />
+        <activity android:name=".Donut" />
+        <activity android:name=".Caremal" />
+        <activity android:name=".Mousse" />
+        <activity android:name=".Biscipudding" />
+        <activity android:name=".Noodles" />
+        <activity android:name=".Patis" />
+        <activity android:name=".Pasta" />
+        <activity android:name=".Spagati" />
+        <activity android:name=".Naan" />
+        <activity android:name=".Kottu" />
+        <activity android:name=".Yellowrice" />
+        <activity android:name=".Pizza" />
+        <activity android:name=".Salad" />
+        <activity android:name=".Lasagna" />
+        <activity android:name=".Naasi" />
+        <activity android:name=".Friedrice" />
+        <activity android:name=".Dosa" />
+        <activity android:name=".Milkrice" />
+        <activity android:name=".Pancake" />
+        <activity android:name=".Hoppers" />
+        <activity android:name=".Stringhoppers" />
+        <activity android:name=".Pittu" />
+        <activity android:name=".Mynewdash" />
+        <activity android:name=".NewLunch" />
+        <activity android:name=".NewBreakfast" />
+        <activity android:name=".Beverage" />
+        <activity android:name=".Cake" />
+        <activity android:name=".Dessert" />
+        <activity android:name=".Dinner" />
+        <activity android:name=".HomeActivity" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>
